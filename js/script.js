@@ -1,9 +1,4 @@
-$(document).ready(function () {
-    // Initial click on the first thumbnail
-    $thumbs.eq(0).click();
-    
-    
-});
+
 $('#open-box').on('click', function(){
 
     $("#box-container").show()
